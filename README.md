@@ -1,16 +1,18 @@
-# flutter_app_marvel
+# Flutter APP Marvel
 
-A new Flutter project.
+Application in Flutter, using the API of https://developer. marvel. com/, we start on screen "Splash", which redirects us to a list of characters, we can scroll through the list and select each of the characters, after a transition of fading we find their image, name, description and Comics, Series, Stories and events where the character appears
 
-## Getting Started
+## Summary
+Flutter & Dart
 
-This project is a starting point for a Flutter application.
+Splash Screen 
+List Screen 
+Details Screen
 
-A few resources to get you started if this is your first Flutter project:
+## Packages:
+http
+flutter_riverpod
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Screenshot
+![image](https://github.com/JulianSantiago24/flutter_app_marvel/assets/76113377/d9701f7d-05e5-43a6-8a1b-a09d63784301)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
